@@ -1,0 +1,10 @@
+/* li items*/
+.items{
+    text-decoration: none;
+    padding-left: 20px;
+    color: rgb(4, 155, 62);
+    font-size: 20px;
+}
+.items:hover{
+    color: palevioletred;
+}
